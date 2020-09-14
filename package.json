@@ -1,0 +1,22 @@
+{
+  "name": "desktop-message-overlay-app",
+  "version": "1.0.0",
+  "description": "Electron Screen Overlay App displaying Messages",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiorgosT97/desktop-message-overlay-app.git"
+  },
+  "author": "George Tsoulos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiorgosT97/desktop-message-overlay-app/issues"
+  },
+  "homepage": "https://github.com/GiorgosT97/desktop-message-overlay-app#readme",
+  "dependencies": {
+    "electron": "^10.1.1"
+  }
+}
